@@ -1,0 +1,41 @@
+body{
+    background-color:bisque;
+}
+h1{
+    text-align: center;
+    color:brown;
+    font-size: 50px;
+    margin: 10px;
+    font-weight: normal;
+}
+h2{
+    font-weight: normal;
+    color: brown;
+    text-align: center;
+}
+
+#time_options{
+    text-align: center;
+    outline: none;
+    border: solid 1px #0003;
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px;
+}
+label{
+    display: flex;
+    justify-content: center;
+}
+#save_options{
+    margin-inline: auto;
+    text-align: center;
+    display: block;
+    margin-top: 40px;
+    border: 1px solid #0003;
+    outline: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: brown;
+    font-weight: bold;
+    cursor: pointer;
+}
